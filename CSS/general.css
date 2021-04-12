@@ -1,0 +1,27 @@
+/* General CSS */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;900&display=swap');
+
+body {
+    width: 375pt;
+    height: 667pt;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    background-color: #0000001A;
+}
+
+p {
+    margin: 0pt;
+}
+
+.bold-text {
+    font-family: "Source Sans Pro", sans-sherif;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.regular-text {
+    font-family: "Source Sans Pro";
+}

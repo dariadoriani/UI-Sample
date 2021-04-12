@@ -1,0 +1,24 @@
+/* Header CSS */
+.header {
+    width: 375pt;
+    height: 360pt;
+    background-image: url('../Pictures/Header.png');
+    background-repeat: no-repeat;
+}
+
+.header-buttons {
+    display: flex;
+    margin-top: 15.44pt;
+    margin-left: 15.44pt;
+}
+
+.header > img {
+    width: 22pt;
+    height: 22pt;
+}
+
+.header-buttons > p {
+    margin-left: 15pt;
+    font-size: 18pt;
+    color: #FFFFFF;
+}
