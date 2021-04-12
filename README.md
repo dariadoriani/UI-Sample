@@ -1,2 +1,1 @@
-"# UI-Sample" 
-#Sample of UI
+#This is an example of UI
